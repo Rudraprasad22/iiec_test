@@ -855,7 +855,7 @@ a, a:hover {
 }
 
 .sticky-wrapper .untree_co--site-nav .untree_co--site-logo {
-  font-size: 1.3rem;
+  font-size: 1.1rem;
   color: #fff;
   font-weight: 700;
 }
@@ -2018,4 +2018,14 @@ footer .form-subscribe .form-control:active, footer .form-subscribe .form-contro
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
+}
+
+div.untree_co--site-section{
+  background-image: url('../images/background\ about\ us.jpg');
+  background-position: center;
+  background-size: cover;
+  image-resolution:inherit;
+}
+div.untree_co--site-section{
+  color:white;
 }

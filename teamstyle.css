@@ -16,7 +16,7 @@
     content: "";
     width: 200%;
     height: 80%;
-    background: rgba(197, 228, 228, 0.8);
+    background: rgba(18, 14, 14, 0.842);
     position: absolute;
     top: -100%;
     left: -4%;
@@ -24,7 +24,7 @@
     transition: all 0.5s ease 0s;
 }
 .our-team .pic:after{
-    background: rgba(172, 158, 223, 0.8);
+    background: rgba(233, 212, 186, 0.8);
     top: auto;
     left: auto;
     bottom: -100%;
@@ -66,7 +66,7 @@
     content: "";
     width: 100%;
     height: 100%;
-    background: #db162f;
+    background: #2d2424;
     border-radius: 0 20px 20px 20px;
     position: absolute;
     top: 0;
@@ -80,8 +80,8 @@
     font-size: 22px;
     font-weight: 700;
     letter-spacing: 2px;
-    color: #047168;
-    text-transform: uppercase;
+    color: #4abeec;
+    /* text-transform: uppercase; */
     margin-bottom: 7px;
 }
 .our-team .post{
@@ -89,7 +89,7 @@
     font-size: 17px;
     font-weight: 600;
     color: #707070;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
 }
 @media only screen and (max-width: 990px){
     .our-team{ margin-bottom: 30px; }

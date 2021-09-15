@@ -78,6 +78,7 @@
 .our-team .team-content{ padding: 20px; }
 .our-team .title{
     font-size: 22px;
+    font-family: "Cormorant Garamond", serif;
     font-weight: 700;
     letter-spacing: 2px;
     color: #0d1416;
@@ -87,6 +88,7 @@
 .our-team .post{
     display: block;
     font-size: 17px;
+    font-family: "Cormorant Garamond", serif;
     font-weight: 600;
     color: #110808;
     /* text-transform: capitalize; */

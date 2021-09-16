@@ -80,13 +80,13 @@
 .our-team .title{
     font-size: 22px;
     font-family: "Cormorant Garamond", serif;
-    font-weight: 700;
+    font-weight: 00;
     letter-spacing: 2px;
     color: #0d1416;
     margin-bottom: 7px;
 }
 .our-team .post{
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto Light", sans-serif;
     display: block;
     font-size: 17px;
     font-weight: 600;

@@ -100,6 +100,7 @@ a, a:hover {
 
 .search-wrap, .search-wrap > .container > .row {
   height: 100vh;
+  
 }
 
 .search-wrap .close-search {
@@ -206,11 +207,13 @@ a, a:hover {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
+
 }
 
 .untree_co--site-hero, .untree_co--site-hero > .container > .row {
   height: 100vh;
   min-height: 500px;
+  
 }
 
 .untree_co--site-hero.overlay {
@@ -855,7 +858,7 @@ a, a:hover {
 }
 
 .sticky-wrapper .untree_co--site-nav .untree_co--site-logo {
-  font-size: 1.1rem;
+  font-size: 1.5rem;
   color: #fff;
   font-weight: 700;
 }
@@ -2020,12 +2023,3 @@ footer .form-subscribe .form-control:active, footer .form-subscribe .form-contro
   transform: translate(-50%, -50%);
 }
 
-div.untree_co--site-section{
-  background-image: url('../images/background\ about\ us.jpg');
-  background-position: center;
-  background-size: cover;
-  image-resolution:inherit;
-}
-div.untree_co--site-section{
-  color:white;
-}

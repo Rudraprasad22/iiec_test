@@ -86,11 +86,11 @@
     margin-bottom: 7px;
 }
 .our-team .post{
-    font-family: "Cormorant Garamond", serif;
+    font-family: "Roboto", sans-serif;
     display: block;
     font-size: 17px;
     font-weight: 600;
-    color: #110808;
+    color: rgba(0, 0, 0, 0.3);
 }
 @media only screen and (max-width: 990px){
     .our-team{ margin-bottom: 30px; }

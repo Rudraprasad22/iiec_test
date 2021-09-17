@@ -79,14 +79,14 @@
 .our-team .team-content{ padding: 20px; }
 .our-team .title{
     font-size: 22px;
-    font-family: "Cormorant Garamond", serif;
+    font-family: "Roboto", serif;
     font-weight: 600;
     letter-spacing: 2px;
     color: #0d1416;
     margin-bottom: 7px;
 }
 .our-team .post{
-    font-family: "Roboto Light", sans-serif;
+    font-family: "Roboto", sans-serif;
     display: block;
     font-size: 17px;
     font-weight: 600;

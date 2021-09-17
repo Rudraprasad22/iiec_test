@@ -1469,6 +1469,10 @@ span[data-jarallax-element] {
 .testimony-29101 .image {
   width: 40%;
   background-size: cover;
+  
+  .untree_co--site-footer{
+    background-color: #f7f9fb
+  }
   background-position: center center;
 }
 

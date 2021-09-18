@@ -293,7 +293,7 @@ a, a:hover {
   color: #000;
   line-height: 0;
   font-family: "Cormorant Garamond", serif;
-  font-weight: normal;
+  font-weight: 900;
 }
 
 @media (max-width: 991.98px) {

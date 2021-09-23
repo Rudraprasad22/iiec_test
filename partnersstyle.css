@@ -1,4 +1,4 @@
-/* .square-holder {
+.square-holder {
     padding:30px;
     border: 1px solid #cecece;
     align-items: center;
@@ -19,4 +19,4 @@
   .square-holder:hover img{
     filter:none;
   }
- */
+

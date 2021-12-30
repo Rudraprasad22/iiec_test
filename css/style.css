@@ -1750,9 +1750,8 @@ footer .form-subscribe .form-control:active, footer .form-subscribe .form-contro
 
 .custom-row-02192 > .col,
 .custom-row-02192 > [class*="col-"] {
-  padding-right: 50px !important;
-  padding-left: 50px !important;
-  padding-top: 50px !important;
+  padding-right: 25px !important;
+  padding-left: 25px !important;
 }
 
 .gutter-1 {
